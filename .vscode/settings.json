@@ -1,0 +1,6 @@
+{
+    "ruby.rubocop.executePath": "D:/bin/Ruby22-x64/bin/",
+    "ruby.rubocop.configFilePath": "/path/to/config/.rubocop.yml",
+    "ruby.rubocop.suppressRubocopWarnings": true,
+    "ruby.rubocop.useBundler": true
+}
